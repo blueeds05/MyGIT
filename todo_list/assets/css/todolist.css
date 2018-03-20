@@ -1,0 +1,35 @@
+body{
+  background: linear-gradient(to right, teal, orange, green);
+}
+
+.content{
+  font-family: "Montserrat", "Avenir";
+  margin: 0 auto;
+  max-width: 350px;
+  background: #f7f7f7;
+  min-height: 400px;
+}
+.lilNavBar{
+  height: 40px;
+  color: white;
+  background-color: #2189b1;
+}
+.navText{
+
+}
+.lineThru{
+  text-decoration: line-through;
+}
+#tdInput{
+  width: 100%;
+  border: none;
+  background: none;
+  font-size: 1.1em;
+  outline:none;
+}
+ul{
+  padding-left: 0;
+}
+li{
+  list-style: none;
+}
